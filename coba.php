@@ -11,5 +11,6 @@
         //menampilkan hasil deret bilangan
         echo "penjualan dibulan ke $i adalah ",($un);
         echo "<br>";
+        // telah ditambahkan kembali oleh sindyka
 }
 ?>
