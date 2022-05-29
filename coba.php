@@ -12,5 +12,6 @@
         echo "penjualan dibulan ke $i adalah ",($un);
         echo "<br>";
         // telah ditambahkan kembali oleh sindyka
+        //ditambahkan lagi ya ges yaa
 }
 ?>
