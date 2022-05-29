@@ -11,7 +11,15 @@
         //menampilkan hasil deret bilangan
         echo "penjualan dibulan ke $i adalah ",($un);
         echo "<br>";
+ fitur/nevarida
+
+        //telah ditambahkan oleh nevarida
+
         // telah ditambahkan kembali oleh sindyka
+ hotfix/nevarida
         //ditambahkan lagi ya ges yaa
+
+kembangkan
+ kembangkan
 }
 ?>
